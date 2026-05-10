@@ -1,0 +1,17 @@
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\bin\Debug\GUI_ThanhToan.exe.config
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\bin\Debug\GUI_ThanhToan.exe
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\bin\Debug\GUI_ThanhToan.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\obj\Debug\GUI_ThanhToan.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\obj\Debug\GUI_ThanhToan.Properties.Resources.resources
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\obj\Debug\GUI_ThanhToan.ThanhToan.resources
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\obj\Debug\GUI_ThanhToan.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\obj\Debug\GUI_ThanhToan.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\obj\Debug\GUI_ThanhToan.exe
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\obj\Debug\GUI_ThanhToan.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\bin\Debug\BLL_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\bin\Debug\DAL_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\bin\Debug\DTO_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\bin\Debug\BLL_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\bin\Debug\DAL_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\bin\Debug\DTO_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_ThanhToan\obj\Debug\GUI_Than.CA4E602D.Up2Date

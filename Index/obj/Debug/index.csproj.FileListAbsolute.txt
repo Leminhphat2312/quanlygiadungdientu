@@ -1,0 +1,17 @@
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\bin\Debug\index.exe.config
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\bin\Debug\index.exe
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\bin\Debug\index.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\bin\Debug\BLL_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\bin\Debug\DTO_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\bin\Debug\DAL_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\bin\Debug\BLL_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\bin\Debug\DTO_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\bin\Debug\DAL_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\obj\Debug\index.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\obj\Debug\index.Index.resources
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\obj\Debug\index.Properties.Resources.resources
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\obj\Debug\index.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\obj\Debug\index.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\obj\Debug\index.csproj.Up2Date
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\obj\Debug\index.exe
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\index\obj\Debug\index.pdb
