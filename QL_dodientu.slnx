@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="BanHang/GUI_GioHang.csproj" Id="e3f0490f-b127-4b73-b7b2-69b1f32a0716" />
+  <Project Path="BLL_QLDDT/BLL_QLDDT.csproj" Id="ded6e491-57b0-4959-a3e1-05e603b7529d" />
+  <Project Path="DAL_QLDDT/DAL_QLDDT.csproj" Id="95bb2880-3b30-439c-8f66-f38827007e86" />
+  <Project Path="DTO_QLDDT/DTO_QLDDT.csproj" Id="affa86b2-4b0b-4847-b929-f8e0821e75ba" />
+  <Project Path="GUI_DoanhThu/GUI_DoanhThu.csproj" Id="ec6f077b-14ea-4d7a-a6aa-0b568ba7fa93" />
+  <Project Path="GUI_LSGD/GUI_LSGD.csproj" Id="8ae43af6-b963-44f0-a9ba-92e6763d6c7f" />
+  <Project Path="GUI_QuanLy/GUI_QuanLy.csproj" Id="b7ac6449-a886-43db-9abf-bbc03876a07d" />
+  <Project Path="GUI_ThanhToan/GUI_ThanhToan.csproj" Id="3a1ffa26-981b-44d2-9994-994345f5861e" />
+  <Project Path="index/GUI_SanPham.csproj" Id="5d54a3fe-5c1f-4d33-82de-a8de576f8305" />
+  <Project Path="QL_dodientu/GUI_QLDDT.csproj" Id="a458e932-2a39-4607-8a99-b49093eb4388" />
+  <Project Path="Them_SP/GUI_ThemSanPham.csproj" Id="913f29b0-5765-489d-b012-113a30eaa6d9" />
+  <Project Path="WindowsFormsApp2/GUI_DanhMuc.csproj" Id="35e97a3b-5f17-4e54-8cdb-f2838e365dee" />
+</Solution>
