@@ -1,0 +1,6 @@
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\DTO_QLDDT\bin\Debug\DTO_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\DTO_QLDDT\bin\Debug\DTO_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\DTO_QLDDT\obj\Debug\DTO_QLDDT.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\DTO_QLDDT\obj\Debug\DTO_QLDDT.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\DTO_QLDDT\obj\Debug\DTO_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\DTO_QLDDT\obj\Debug\DTO_QLDDT.pdb

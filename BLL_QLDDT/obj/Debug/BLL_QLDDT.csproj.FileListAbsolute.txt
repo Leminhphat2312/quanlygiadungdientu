@@ -1,0 +1,11 @@
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\BLL_QLDDT\bin\Debug\BLL_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\BLL_QLDDT\bin\Debug\BLL_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\BLL_QLDDT\bin\Debug\DAL_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\BLL_QLDDT\bin\Debug\DTO_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\BLL_QLDDT\bin\Debug\DAL_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\BLL_QLDDT\bin\Debug\DTO_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\BLL_QLDDT\obj\Debug\BLL_QLDDT.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\BLL_QLDDT\obj\Debug\BLL_QLDDT.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\BLL_QLDDT\obj\Debug\BLL_QLDDT.csproj.Up2Date
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\BLL_QLDDT\obj\Debug\BLL_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\BLL_QLDDT\obj\Debug\BLL_QLDDT.pdb
