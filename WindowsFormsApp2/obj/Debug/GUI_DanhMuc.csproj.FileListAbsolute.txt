@@ -1,0 +1,10 @@
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\WindowsFormsApp2\obj\Debug\GUI_DanhMuc.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DanhMuc.resources
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\WindowsFormsApp2\obj\Debug\GUI_DanhMuc.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\WindowsFormsApp2\obj\Debug\GUI_DanhMuc.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
