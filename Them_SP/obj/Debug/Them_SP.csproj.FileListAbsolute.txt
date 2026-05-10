@@ -1,0 +1,10 @@
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\bin\Debug\Them_SP.exe.config
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\bin\Debug\Them_SP.exe
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\bin\Debug\Them_SP.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\obj\Debug\Them_SP.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\obj\Debug\Them_SP.Form1.resources
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\obj\Debug\Them_SP.Properties.Resources.resources
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\obj\Debug\Them_SP.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\obj\Debug\Them_SP.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\obj\Debug\Them_SP.exe
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\obj\Debug\Them_SP.pdb

@@ -1,0 +1,17 @@
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\bin\Debug\Them_SP.exe.config
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\bin\Debug\Them_SP.exe
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\bin\Debug\Them_SP.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\bin\Debug\BLL_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\bin\Debug\DAL_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\bin\Debug\DTO_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\bin\Debug\BLL_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\bin\Debug\DAL_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\bin\Debug\DTO_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\obj\Debug\GUI_ThemSanPham.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\obj\Debug\Them_SP.ThemHang.resources
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\obj\Debug\Them_SP.Properties.Resources.resources
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\obj\Debug\GUI_ThemSanPham.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\obj\Debug\GUI_ThemSanPham.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\obj\Debug\GUI_Them.FBA4BCDB.Up2Date
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\obj\Debug\Them_SP.exe
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\Them_SP\obj\Debug\Them_SP.pdb
