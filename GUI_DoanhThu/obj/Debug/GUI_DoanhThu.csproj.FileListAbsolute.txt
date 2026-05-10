@@ -1,0 +1,17 @@
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\obj\Debug\GUI_DoanhThu.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\obj\Debug\GUI_DoanhThu.Form1.resources
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\obj\Debug\GUI_DoanhThu.Properties.Resources.resources
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\obj\Debug\GUI_DoanhThu.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\obj\Debug\GUI_DoanhThu.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\bin\Debug\GUI_DoanhThu.exe.config
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\bin\Debug\GUI_DoanhThu.exe
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\bin\Debug\GUI_DoanhThu.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\bin\Debug\BLL_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\bin\Debug\DAL_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\bin\Debug\DTO_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\bin\Debug\BLL_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\bin\Debug\DAL_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\bin\Debug\DTO_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\obj\Debug\GUI_Doan.D688FF32.Up2Date
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\obj\Debug\GUI_DoanhThu.exe
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_DoanhThu\obj\Debug\GUI_DoanhThu.pdb

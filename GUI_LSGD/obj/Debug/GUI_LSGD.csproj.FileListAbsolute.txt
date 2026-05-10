@@ -1,0 +1,17 @@
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\bin\Debug\GUI_LSGD.exe.config
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\bin\Debug\GUI_LSGD.exe
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\bin\Debug\GUI_LSGD.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\bin\Debug\BLL_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\bin\Debug\DAL_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\bin\Debug\DTO_QLDDT.dll
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\bin\Debug\BLL_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\bin\Debug\DAL_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\bin\Debug\DTO_QLDDT.pdb
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\obj\Debug\GUI_LSGD.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\obj\Debug\GUI_LSGD.LSGD.resources
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\obj\Debug\GUI_LSGD.Properties.Resources.resources
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\obj\Debug\GUI_LSGD.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\obj\Debug\GUI_LSGD.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\obj\Debug\GUI_LSGD.csproj.Up2Date
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\obj\Debug\GUI_LSGD.exe
+C:\Users\LEGION\Downloads\New folder\QL_dodientu\GUI_LSGD\obj\Debug\GUI_LSGD.pdb
